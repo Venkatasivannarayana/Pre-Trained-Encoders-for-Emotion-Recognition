@@ -14,4 +14,4 @@ https://github.com/Venkatasivannarayana/Pre-Trained-Encoders-for-Emotion-Recogni
 https://github.com/Venkatasivannarayana/Pre-Trained-Encoders-for-Emotion-Recognition/blob/main/Venkat_RoBERTa_Emotion_Detection_Text.ipynb
 3. Each of the notebook files must be open using google colab and they should be run independently after adding the shortcut of provided dataset in the google drive.
 4. https://drive.google.com/drive/u/0/folders/1UeIK2K2Ig1OULwAbAiTnesL1uAYxkXvx
-5. There are data and dev files in goemotion folder
+5. There are test and dev files in goemotion folder
